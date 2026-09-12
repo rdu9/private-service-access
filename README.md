@@ -5,7 +5,7 @@ enough. I wanted it private, so I built it on my VPS behind WireGuard and nginx,
 and learned a lot on the way.
 
 Tailscale would have done the tunnel in ten minutes, but the parts it automates —
-key distribution and NAT traversal — were the parts I wanted to understand.
+key distribution and NAT traversal — were the parts I wanted to understand more in depth and see if i can learn something new.
 
 ## Scheme
 
