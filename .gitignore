@@ -1,0 +1,12 @@
+*.key
+*.pub
+*.conf
+!*.conf.example
+
+# ignore the actual .html and .css code
+index.html
+style.css
+state.json
+
+.DS_Store
+__pycache__/
