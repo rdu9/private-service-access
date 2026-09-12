@@ -10,3 +10,4 @@ state.json
 
 .DS_Store
 __pycache__/
+!nginx/*.conf
